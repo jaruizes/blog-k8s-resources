@@ -1,6 +1,6 @@
-DROP TABLE products;
-DROP TABLE labels;
-DROP TABLE labels_products;
+DROP TABLE products IF EXISTS;
+DROP TABLE labels IF EXISTS;
+DROP TABLE labels_products IF EXISTS;
 
 CREATE TABLE  products (
     id   INTEGER      NOT NULL AUTO_INCREMENT,
