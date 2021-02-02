@@ -11,7 +11,7 @@
     <groupId>com.jaruizes.k8s.resources.services</groupId>
     <artifactId>products</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>products</name>
+    <name>Products service</name>
     <description>Products service</description>
     <properties>
         <java.version>11</java.version>
