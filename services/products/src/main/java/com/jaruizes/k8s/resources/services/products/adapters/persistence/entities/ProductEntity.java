@@ -9,7 +9,6 @@ import java.util.Set;
 
 @Entity
 @Getter
-@Setter
 @NoArgsConstructor
 @Table(name="products")
 public class ProductEntity {
