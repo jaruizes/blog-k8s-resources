@@ -22,7 +22,7 @@ spec:
       labels:
         app: products
       annotations:
-        revision: "0"
+        revision: "a298b163e7ff05b703e30c39667769172b19bae2"
     spec:
       containers:
         - name: products
